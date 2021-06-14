@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL ::-](https://your-solution-url.com)
-- Live Site URL: [Live Site URL ::-](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/ubed90/article-preview-component-master-FE-mentor)
+- Live Site URL: [Live Site URL](https://ubed90.github.io/article-preview-component-master-FE-mentor/)
 
 ## My process
 
