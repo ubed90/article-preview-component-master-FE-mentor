@@ -123,7 +123,7 @@ p {
     border-radius: 0 0 1em 1em;
 }
 
-.share:hover ~.tooltip , .share:focus ~.tooltip{
+.share:focus ~.tooltip{
     visibility: visible;
 }
 
@@ -196,7 +196,7 @@ p {
         transform: scale(0);
     }
 
-    .share:hover::before , .share:focus::before{
+    .share:focus::before{
         transform: scale(1);
     }
 }
